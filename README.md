@@ -7,5 +7,5 @@ Im releasing it for people that want cheats or need a source.
 <br />
 Do what you want with it, idgaf. ;)
 
-**info**: you can change the offsets in **utils.hpp** if needed
+**info**: you can change the offsets in **utils.hpp** if needed.
 ![Alt text](catsgo-internal/img/catsgo.png?raw=true "catsgo-screenshot")
