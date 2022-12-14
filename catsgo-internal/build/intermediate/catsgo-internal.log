@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  cheat.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 188 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  catsgo-internal.vcxproj -> C:\Users\emili\source\repos\catsgo-internal\build\catsgo-internal.dll
